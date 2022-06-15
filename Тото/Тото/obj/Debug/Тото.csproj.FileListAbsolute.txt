@@ -1,0 +1,11 @@
+C:\Users\Iva\Desktop\Presentations\Тото\Тото\bin\Debug\Тото.exe.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\bin\Debug\Тото.exe.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\bin\Debug\Тото.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\bin\Debug\Тото.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\obj\Debug\Тото.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\obj\Debug\Тото.Form1.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\obj\Debug\Тото.Properties.Resources.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\obj\Debug\Тото.csproj.GenerateResource.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\obj\Debug\Тото.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\obj\Debug\Тото.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\Тото\Тото\obj\Debug\Тото.pdb
